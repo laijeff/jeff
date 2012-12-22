@@ -1,7 +1,7 @@
 ---
 ¡¡¡¡layout: default
 ¡¡¡¡title: ÄãºÃ£¬ÊÀ½ç
-¡¡¡¡---
+---
 
 ¡¡¡¡<h2>{{ page.title }}</h2>
 
